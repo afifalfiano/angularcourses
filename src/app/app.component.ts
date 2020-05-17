@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
-  username = 'Hello World';
+  username = '';
 
   onBtnReset() {
     this.username = '';
